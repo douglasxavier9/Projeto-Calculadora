@@ -7,3 +7,4 @@ Calculadora é um dispositivo para a realização de cálculos numéricos. São 
 * HTML5
 * CSS
 * JavaScript
+
