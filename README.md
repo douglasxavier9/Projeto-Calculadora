@@ -8,5 +8,7 @@ Calculadora é um dispositivo para a realização de cálculos numéricos. São 
 * CSS
 * JavaScript
 
+# Layout
+
 ![calculadora img](https://user-images.githubusercontent.com/63323533/79782859-1995fa80-8316-11ea-9508-083105d21774.jpg)
 
